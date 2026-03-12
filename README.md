@@ -153,11 +153,5 @@ Load the exported CSV into Tableau for advanced visualization and analytics.
 
 Contributions are welcome! Feel free to submit issues and pull requests.
 
-## License
 
-MIT
-
----
-
-**Code-Phoenix-25** - Built for the "Code of the Phoenix" 2025 Hackathon
 
